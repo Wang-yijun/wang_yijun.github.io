@@ -26,14 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Yijun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc researcher interested in geodynamic modelling, subduction, olivine texture, working on the coupling of FastScape to ASPECT currently "
+  bio              : "Postdoc researcher"
   location         : "Potsdam, Germany"
-  employer         : "GFZ， Potsdam"
+  employer         : "GFZ German Research Centre for Geosciences"
   uri              : # URL
   email            : "yijun0509wang@gmail.com" 
 
   # Academic websites
-  academia         : "https://www.gfz.de/en/staff/yijun.wang/sec25"
+  academia         : # "https://www.gfz.de/en/staff/yijun.wang/sec25"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Q3YrCeYAAAAJ&hl"
   inspire-hep      : # URL
