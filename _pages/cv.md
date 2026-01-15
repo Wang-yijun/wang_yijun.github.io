@@ -11,35 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D in Geodynamic modelling, Centre for Planetary Habitability, University of Oslo, Norway, 2025**  
+Texture evolution in subduction models, influenced by anisotropic viscosity: Simple tests, cluster analysis, and numerical implementation
+Supervisors: Ágnes Király, Clinton P. Conrad
+
+**M.S. in Solid Earth geophysics, University of Helsinki, Finland, 2021**  
+Numerical Modelling of Oblique Subduction in the Southern Andes Region
+Supervisor: David Whipps
+
+**B.S. in Computer Science and Geology, Carleton College, MN, USA, 2018**  
+Analog Experiments of Strike-Slip Faults in Wet Kaolin: Echelon faults development and fault efficiency depend on strain rate
+Supervisor: Sarah Titus
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10/2025 ~ current: PostDoc Researcher
+  * GFZ Potsdam, Germany
+  * Coupling surface process code FastScape with geodynamic modelling software ASPECT
+  * Supervisor: Sascha Brune
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2021 ~ 08/2025: PhD Candidate
+  * Centre for Planetary Habitability, University of Oslo, Norway
+  * Modelling anisotropic viscosity induced by olivine fabric evolution in subduction system
+  * Implementation of ASPECT and Geodynamic World Builder in c++
+  * Processing, visualizing, and clustering data using Python and MATLAB
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/2019 ~ 03/2021: Teaching Assistant
+  * University of Helsinki, Finland
+  * TA for Geopython and Geodynamic course offered to Master's and Bachelor's students
+
+* 06/2019 ~ 01/2021: Research Assistant
+  * Finnish Meteorological Institute, Helsinki, Finland
+  * Process solar panel records and conduct data availability and quality control
+  * Perform regression analysis on PV production data
+  * Visualize netCDF files for GIS usage
+
+* 06/2017 ~ 12/2017: Research Assistant
+  * Conduct analog model with clay for fault formation
+  * Analyze experimental result with MATLAB PIV tool
+
+* 11/2016 ~ 03/2018: GIS Lab Assistant
+  * Preprocess remote sensing data for burn severity study
+  * Digitalize paper map using ArcGIS
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, C++
+* Language
+  * Native: Chinese
+  * Professional: English
+  * Intermediate (B1~B2): Norwegian and German
 
 Publications
 ======
@@ -47,18 +69,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
